@@ -1,0 +1,15 @@
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/obj/Debug/net6.0/Home work.csproj.AssemblyReference.cache
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/obj/Debug/net6.0/Home work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/obj/Debug/net6.0/Home work.AssemblyInfoInputs.cache
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/obj/Debug/net6.0/Home work.AssemblyInfo.cs
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/obj/Debug/net6.0/Home work.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/bin/Debug/net6.0/Home work
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/bin/Debug/net6.0/Home work.deps.json
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/bin/Debug/net6.0/Home work.runtimeconfig.json
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/bin/Debug/net6.0/Home work.dll
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/bin/Debug/net6.0/Home work.pdb
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/obj/Debug/net6.0/Home work.dll
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/obj/Debug/net6.0/refint/Home work.dll
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/obj/Debug/net6.0/Home work.pdb
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/obj/Debug/net6.0/Home work.genruntimeconfig.cache
+/Users/mac/Desktop/МОЯ УЧЕБА/IT инженер/Знакомство с языками программирования /С#/Seminars/Seminar 3/Home work/obj/Debug/net6.0/ref/Home work.dll

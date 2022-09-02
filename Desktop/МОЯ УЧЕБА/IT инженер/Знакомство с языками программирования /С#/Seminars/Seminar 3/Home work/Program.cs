@@ -1,4 +1,4 @@
-﻿/* 
+﻿/*
 // Задача 19.Напишите программу, которая принимает на вход пятизначное число 
 //и проверяет, является ли оно палиндромом.
 
@@ -34,11 +34,11 @@ namespace LogicalPrograms
         }
     }
 }
-
+*/
 
 /*
 //Задача 21. Напишите программу, которая принимает на вход координаты двух точек 
-//и находит расстояние между ними в 3D пространстве.
+// и находит расстояние между ними в 3D пространстве.
 
 double FindDistance(double x1, double y1, double x2, double y2, double z1, double z2)
 {
@@ -57,7 +57,7 @@ double z2B = Convert.ToInt32(Console.ReadLine());
 
 double dist3D = FindDistance(xA, yB, xB, yB, z1B, z2B);
 Console.WriteLine($" Дистанция составит {dist3D}  ");
-
+*/
 
 
 /*
